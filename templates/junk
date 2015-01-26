@@ -1,0 +1,38 @@
+9,10d8
+<       <span class="hidden-xs hidden-sm col-md-1"> 
+<       </span>
+29,30d26
+<       <span class="hidden-xs hidden-sm col-md-1"> 
+<       </span>
+42c38
+<           <h1>Pacifism.sh</h1>
+---
+>           <h1><?php print $title; ?></h1>
+82,93c78,85
+<     <span class="hidden-xs hidden-sm col-md-10 pac-logobar">
+<       <div class="col-md-12 big-header-well align-left">
+<         <table class="ttable">
+<           <tr class="trow">
+<             <td class="tlogo">
+<               <a href="/"><img src="/sites/all/themes/pacstrap/logos/pcube200.png" /></a>
+<             </td>
+<             <td class="big-title-well">
+<               <h1>Pacifism.sh</h1>
+<             </td>
+<           </tr>
+<         </table>
+---
+>     <span class="hidden-xs hidden-sm col-md-10 pac-border pac-logobar">
+>       <div class="col-xs-6 col-sm-6 big-logo-well centered" >
+>         <center>
+>           <a href="/"><img class="img-responsive centered" src="/sites/all/themes/pacstrap/logos/pcube200.png" /></a>
+>         </center>
+>       </div>
+>       <div class="col-xs-6 col-sm-6 big-title-well centered">
+>         <h1><?php print $title; ?></h1>
+124c116
+<       <br />
+---
+>       <br /><br />
+129a122
+>       <br /><br />
