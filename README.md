@@ -1,2 +1,2 @@
 # pacstrap
-Responsive Bootstrap theme for Pacifism.sh
+Responsive Drupal theme (based on Bootstrap) for Pacifism.sh
